@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <record>
 	<record_link type="neobject" value="Squeeze.xml"/>
-	<record_link type="image" value="ImageBottom.png"/>
-	<record_link type="image" value="ImageRight.png"/>
+	<record_link type="image" value="ImageBottom.png"><source url="https://doi.org/10.34847/nkl.4832359g"/></record_link>
+	<record_link type="image" value="ImageRight.png"><source url="https://doi.org/10.34847/nkl.2073x402"/></record_link>
 	<field id="27" value="3D digitization of the artifact using bidirectional flatbed scanning.">
 		<source id="../References/MVA2010/Info.xml"/>
 	</field>
@@ -10,5 +10,6 @@
 	<field id="34" value="1000"/>
 	<field id="35" value="666"/>
 	<field id="45" value="Adeline Levivier"/>
+	<field id="44" value="Michèle Brunet"/>
 	<field id="43" value="Digitized by École française d'Athènes."/>
 <record_link><neobject_id>_E0Z7i78e85q8nWwU</neobject_id></record_link></record>
