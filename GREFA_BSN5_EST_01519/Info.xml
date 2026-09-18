@@ -11,5 +11,7 @@
 	<field id="35" value="1300"/>
 	<field id="45" value="Adeline Levivier"/>
 	<field id="44" value="Michèle Brunet"/>
-	<field id="43" value="Digitized by École française d'Athènes."/>
+	<field id="43" value="Digitized by École française d'Athènes.">
+		<source url="https://doi.org/10.34847/nkl.ed189230"/>
+	</field>
 <record_link><neobject_id>_X2zeHezotwVXc0iU</neobject_id></record_link></record>
