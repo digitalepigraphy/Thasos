@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<record>
+	<record_link type="heightmap" value="Info.xml"></record_link>
+	<record_link type="neobject" value="Inscription.xml"></record_link>
+	<field id="7" value="École française d’Athènes, 6, rue Didotou, 10680 Athènes, Grèce (Salle des estampages, tiroir 05D)"></field>
+	<field id="44" value="Michèle Brunet"></field>
+	<field id="14" value="Papier à estampage"></field>
+	<field id="11" value="70"></field>
+	<field id="12" value="48"></field>
+	<field id="10" value="total"></field>
+	<field id="26" value="&quot; Grande liste des théores &quot; - Bloc IG XII 8, 308"></field>
+	<field id="47" value="Estampage n. 01375"></field>
+</record>

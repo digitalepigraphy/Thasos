@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<record>
+	<record_link type="neobject" value="Squeeze.xml"/>
+	<record_link type="image" value="ImageBottom.png"/>
+	<record_link type="image" value="ImageRight.png"/>
+	<field id="27" value="3D digitization of the artifact using bidirectional flatbed scanning.">
+		<source id="../References/MVA2010/Info.xml"/>
+	</field>
+	<field id="8" value="Oct. 6, 2016"/>
+	<field id="34" value="1000"/>
+	<field id="35" value="666"/>
+	<field id="45" value="Adeline Levivier"/>
+	<field id="43" value="Digitized by École française d'Athènes."/>
+<record_link><neobject_id>_TcNVEwhnJNBGwJZw</neobject_id></record_link></record>
