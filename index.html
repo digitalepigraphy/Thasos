@@ -1430,6 +1430,8 @@
       els.meta.textContent = "Showing " + matches.length + " of " + total + " record" + (total === 1 ? "" : "s") +
         " for “" + query + "”.";
     }
+
+    return matches;
   }
 
   function initSearch(){
@@ -1641,7 +1643,14 @@
     var initialQuery = new URLSearchParams(window.location.search).get("q");
     if (initialQuery) {
       els.input.value = initialQuery;
-      els.input.dispatchEvent(new Event("input"));
+      state.query = initialQuery;
+      els.clearBtn.classList.toggle("is-visible", state.query.length > 0);
+      var initialMatches = render();
+      // A ?q= link that pins down exactly one record (e.g. from the Share
+      // dialog) opens straight into that record's expanded detail view.
+      if (initialMatches.length === 1) {
+        toggleCard(initialMatches[0].id);
+      }
     } else {
       render();
     }
